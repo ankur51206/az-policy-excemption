@@ -5,7 +5,7 @@ provider "azurerm" {
 
 
 resource "azurerm_management_group" "policy" {
-  display_name = "Add your Management Group"
+  # display_name = "Add your Management Group"
 }
 
 
